@@ -1,5 +1,6 @@
 #
 # Experiment with the Monty Hall problem.
+# Nik Conwell
 #
 
 from colorama import Fore, Style
